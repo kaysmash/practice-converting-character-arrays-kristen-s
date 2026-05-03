@@ -1,0 +1,36 @@
+let message1 = " !yako eb ll'uoy dna ,gniog peeK !sgnittes fo yteirav a ni slliks
+gnidoc esu osla nac uoY !ti teg ll'uoy ,tsisrep uoy fi tub ,tsrif ta drah mees yam
+gnidoC";
+message1 = message1.split("").reverse().join("");
+console.log(message1); // Coding may seem hard at first, but if you persist, you'll get it! You can also use coding skills in a variety of settings! Keep going, and you'll be okay!
+
+let message2 = "!ecitcarp htiw retteb teg ll‘uoy ,emit ekaT .tsrif ta drah leef lliw
+gnitirw edoc tuB";
+message2 = message2.split("").reverse().join("");
+console.log(message2); // But code writing will feel hard at first. Take time, you'll get better with practice!
+
+let message3 = "!elpoep rehto morf tnereﬃd on era uoy ,elbuort evah uoy fI
+.lanoisseforp a ekil leef ot evah t'nod uoY";
+message3 = message3.split("").reverse().join("");
+console.log(message3); // You don't have to feel like a professional. If you have trouble, you are not on a different team from other people!
+
+let message4 = ".rettam llits yeht ,smargorp llams etirw ylno nac uoy fI .tnemom
+tcefrep eht rof tiaw t'noD .yadot trats tsuJ";
+message4 = message4.split("").reverse().join("");
+console.log(message4); // Just start today. Don't wait for the perfect moment. If you can only write small programs, they still matter.
+
+let myMessage1 = "I am determined to learn. I may be discouraged at times, but I will not give up!";
+myMessage1 = myMessage1.split("").reverse().join("");
+console.log(myMessage1); // !pu evig ton lliw I ,stimes tadegruosdec eb yam I .nrael ot denemrited ma I
+
+let myMessage2 = "I will practice coding every day. I know that I can do it if I keep trying!";
+myMessage2 = myMessage2.split("").reverse().join("");
+console.log(myMessage2); // !gniyrt peek I fi ti do nac I taht wonk I .yad yreve gnidoc ecitcarp lliw I
+
+let myMessage3 = "Coding is really fun so far. I am excited to learn more and create new things!";
+myMessage3 = myMessage3.split("").reverse().join("");
+console.log(myMessage3); // !sgniht wen etaerc dna erom nrael ot deticxe ma I .raf os nuf yllaer si gnidoC
+
+let myMessage4 = "I am proud of myself for learning to code. I will keep practicing and improving every day!";
+myMessage4 = myMessage4.split("").reverse().join("");
+console.log(myMessage4); // !yad yreve gniroverp dna gnicitcarp peek lliw I .edoc ot gninrael rof flesym fo
